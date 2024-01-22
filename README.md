@@ -4,9 +4,7 @@
 <p align="center">
     <a href="https://msisaif.github.io">About Me</a>
     ·
-    <a href="mailto:msisaif.com@gmail.com">Email</a>
-    ·
-    <a href="https://linkedin.com/in/msisaif/">LinkedIn</a>
+    <a href="mailto:msi313.bd@gmail.com">Email</a>
 </p>
 <p align="center">
   <h4 align="center">Web developer from Dhaka, Bangladesh</h4>
