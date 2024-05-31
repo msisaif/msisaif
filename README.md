@@ -37,12 +37,16 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on **[The Message Academy Website](https://messagebd.net/)**.
+<div align="center">
 
-- 🌱 I’m currently learning **DART & Flutter**.
+🔭 I’m currently working on **[The Message Academy Website](https://messagebd.net/)**.
 
-- 💬 Ask me about **Laravel, React, Next.js, Vue**.
+🌱 I’m currently learning **DART & Flutter**.
 
-- 📫 How to reach me: @msisaif
+💬 Ask me about **Laravel, React, Next.js, Vue**.
 
-- ⚡ Fun fact: A coder who likes to cook.
+📫 How to reach me: @msisaif
+
+⚡ Fun fact: A coder who likes to cook.
+
+</div>
